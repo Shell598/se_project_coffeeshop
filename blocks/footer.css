@@ -19,16 +19,22 @@
 
 .footer__social-heading {
   margin: 0 0 20px;
-  display: flex;
-  justify-content: flex-end;
-  max-height: 39px;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
 }
 
 .footer__list {
   list-style-type: none;
+  margin: 0;
+  padding-left: 0;
 }
 
-.footer__social-icon {
+.footer__list-item {
+  margin: 0 0 16px;
+}
+
+.footer__social-icon:last-of-type {
   width: 16px;
   height: 16px;
 }
@@ -36,7 +42,6 @@
 .footer__social-link {
   color: #fff;
   text-decoration: none;
-  margin: 0 0 16px;
   display: flex;
   gap: 10px;
   font-family: "Inter", "Times New Roman", serif;

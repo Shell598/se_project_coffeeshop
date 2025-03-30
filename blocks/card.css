@@ -13,6 +13,19 @@
 
 .card__title {
   margin-bottom: 32px;
+  font-family: "Inter", Arial, sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.card__subtitle:last-of-type {
+  margin: 0 0 100px;
+  font-family: "Noto Serif", "Times New Roman", serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
 }
 
 .card__list-item {
@@ -21,7 +34,7 @@
   margin-bottom: 16px;
 }
 
-.card__list-divider {
+.card__list-divider:last-of-type {
   flex-grow: 1;
   border-bottom: 1px solid #000;
 }

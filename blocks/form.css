@@ -55,7 +55,7 @@
   line-height: 20px;
 }
 
-.form__label_checkbox {
+.form__label_type_checkbox {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -70,6 +70,7 @@
 .form__checkbox-custom {
   width: 20px;
   height: 20px;
+  background-color: #fff;
   border: 1px solid #838383;
   border-radius: 2px;
   position: relative;

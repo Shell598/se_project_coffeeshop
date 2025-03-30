@@ -11,10 +11,10 @@
 
 .menu__title {
   margin: 0 0 24px;
-  width: 780px;
+  max-width: 780px;
   display: flex;
   justify-content: center;
-  font-family: "Inter", Arial, sans-serif;
+  font-weight: 500px;
   font-size: 44px;
   line-height: 52px;
 }
