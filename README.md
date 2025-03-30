@@ -13,4 +13,6 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+Add your ideas here :
+
+I enjoyed working on the animations and would love to learn to implement more. This project was challenging but fun.
