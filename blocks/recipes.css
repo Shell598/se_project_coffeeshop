@@ -13,7 +13,7 @@
   margin: 0 0 24px;
   max-width: 580px;
   font-family: "Inter", Arial, sans-serif;
-  font-weight: 500px;
+  font-weight: 500;
   font-size: 44px;
   line-height: 52px;
 }
@@ -48,7 +48,7 @@
   justify-content: space-between;
   align-items: flex-end;
   font-family: "Inter", Arial, sans-serif;
-  font-weight: 500px;
+  font-weight: 500;
   font-size: 20px;
   line-height: 30px;
 }
