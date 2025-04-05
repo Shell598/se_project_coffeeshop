@@ -59,7 +59,8 @@
 }
 
 .header__paragraph {
-  font-family: "Noto Serif", "Times New Roman", Times, serif;
+  margin-top: 28 0 0;
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
